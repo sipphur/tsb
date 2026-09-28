@@ -10,7 +10,8 @@ html,body{
 	 background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  font-family:Helvetica;
+  font-family:monospace;
+  font:Courier New;
  }
 
  #TopDivHome{
