@@ -50,11 +50,11 @@ left:5px;
 
 #BottomIndex{
 	position:absolute;
-	left:0;
-	bottom:0;
+	right:5px;
+	bottom:5px;
 	background-color:#848484;
-	height: 100px;
-	width: 100px;
+	height:5%;
+	width: 5%;
 }
 
 .Roze{
